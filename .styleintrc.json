@@ -19,4 +19,6 @@
     "csstree/validator": true,
     "ignoreFiles": ["build/**", "dist/**", "**/reset*.css", "**/bootstrap*.css"]
   }
-  
+  {
+    "extends": "stylelint-config-standard"
+  }
